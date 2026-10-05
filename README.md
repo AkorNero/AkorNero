@@ -1,12 +1,12 @@
 # Hi there 👋
 
-I'm Aravindkumar, a full stack developer turned AI engineer based in Ireland.
+I'm Aravindkumar, a full stack software engineer turned AI engineer based in Ireland.
 
-Currently building **NanoGPTSorter** - an transformer model from scratch, plus every
-optimization I can throw at it. Inspired by [bbycroft's LLM visualizer](https://bbycroft.net/llm),
-[nanoGPT](https://github.com/karpathy/nanoGPT), and [mni-ml](https://mni-ml.github.io/articles/gradient-descent/).
+I'm currently working on the Nero's Pizza — CI/CD & IaC, a Production-style AWS observability built with Terraform: a serverless order API (API Gateway, Lambda, SQS, DynamoDB) instrumented with CloudWatch logs, metric filters, EMF custom metrics, alarms, dashboards and KMS-encrypted SNS alerting.
 
-Also prepping for the `AWS Certified ML Engineer` exam.
+## Certifications
+- AWS Certified Machine Learning Engineer - Associate
+- HashiCorp Certified: Terraform Associate
 
 ## `$ whoami`
 
